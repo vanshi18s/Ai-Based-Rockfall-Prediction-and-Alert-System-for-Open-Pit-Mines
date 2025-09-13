@@ -1,0 +1,29 @@
+{
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets": {
+    "color": "violet",
+    "badge": "✶"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets\\icons": {
+    "parent": "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets\\images": {
+    "parent": "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets\\mocks": {
+    "parent": "c:\\Users\\devpa\\Documents\\rockfall_detect\\assets"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\lib\\widgets": {
+    "color": "gold",
+    "badge": "■"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\lib\\widgets\\appLogo.dart": {
+    "parent": "c:\\Users\\devpa\\Documents\\rockfall_detect\\lib\\widgets"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\lib\\screens\\login": {
+    "color": "black",
+    "badge": "▲"
+  },
+  "c:\\Users\\devpa\\Documents\\rockfall_detect\\lib\\screens\\login\\login_screen.dart": {
+    "parent": "c:\\Users\\devpa\\Documents\\rockfall_detect\\lib\\screens\\login"
+  }
+}

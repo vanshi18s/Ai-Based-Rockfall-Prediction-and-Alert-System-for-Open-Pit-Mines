@@ -1,0 +1,4 @@
+- [ ] Modify LoginDialog to use Container instead of Dialog
+- [ ] Modify SignupDialog to use Container instead of Dialog
+- [ ] Update start_screen.dart to use showGeneralDialog with BackdropFilter and smooth transition
+- [ ] Add import 'dart:ui' back to start_screen.dart
